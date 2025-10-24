@@ -12,7 +12,7 @@ Incomplete list:
   * PebbleAppStore - Pebble Store partial backup
   * SDKCores - SDKCores and signed Android app archive files
   * SiteDumps - archives/clones of developer-related documentation
-  * [Learning C with Pebble final](./learning-c-with-pebble%20final.pdf)
+  * [Learning C with Pebble - final PDF](./learning-c-with-pebble%20final.pdf) Also see https://pebble.gitbooks.io/learning-c-with-pebble/content/
 
   Also see:
     * https://github.com/clach04/Pebble-App-Config-Page-Backup
